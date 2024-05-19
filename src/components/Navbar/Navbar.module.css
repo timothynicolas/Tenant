@@ -1,0 +1,43 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    font-weight: 900;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.navigation{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.navbarButton{
+    margin-left: 3%;
+    margin-right: 3%;
+    font-weight: 700;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+.signIn{
+    font-weight: 700;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.register{
+    font-weight: 700;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    padding: 10px;
+    background-color: #3c00a0;
+    box-shadow:5px 5px 5px rgba(0, 0, 0, 0.5) ;
+}
+
