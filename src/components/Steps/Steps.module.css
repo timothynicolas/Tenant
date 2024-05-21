@@ -1,0 +1,33 @@
+.headerText{
+    font-weight: 700;
+}
+
+.mainContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.textContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: yellow; */
+}
+
+.iconsContainer{
+    display: flex;
+    border-radius: 30% 70% 70% 30% / 30% 51% 49% 70% ;
+    
+}
+
+.iconsContainer div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+
+
